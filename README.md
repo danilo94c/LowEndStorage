@@ -1,3 +1,6 @@
+
+[![update-host](https://github.com/danilo94c/LowEndStorage/actions/workflows/main.yml/badge.svg)](https://github.com/danilo94c/LowEndStorage/actions/workflows/main.yml)
+
 # [LowEndStorage](https://www.lowendstorage.win)
 
 This site compiles a list of Low End Storage solutions into a sortable table to analyze all options.
