@@ -1,10 +1,9 @@
 name: update-host
 
 on:
-  pull_request:
-    branches:    
-      - 'data/**'
-      - 'data.json'
+  push:
+    paths:
+      - '**.json'
       
 #on:
  # schedule:
